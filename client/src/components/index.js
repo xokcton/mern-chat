@@ -1,0 +1,6 @@
+export { default as Contacts } from './Contacts'
+export { default as Brand } from './Brand'
+export { default as Welcome } from './Welcome'
+export { default as MessageArea } from './MessageArea'
+export { default as Logout } from './Logout'
+export { default as ChatInput } from './ChatInput'

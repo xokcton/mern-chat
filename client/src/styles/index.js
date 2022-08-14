@@ -1,0 +1,8 @@
+export { default as FormContainer } from './FormContainer'
+export { default as AvatarContainer } from './AvatarContainer'
+export { default as ChatContainer } from './ChatContainer'
+export { default as ContactsContainer } from './ContactsContainer'
+export { default as WelcomeContainer } from './WelcomeContainer'
+export { default as MessageAreaContainer } from './MessageAreaContainer'
+export { default as ChatInputContainer } from './ChatInputContainer'
+export { default as LogoutButton } from './LogoutButton'
